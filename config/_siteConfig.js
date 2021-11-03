@@ -9,8 +9,8 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Awake',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
+  siteName: 'Sylvain',
+  tagline: 'Présentation de mon parcours',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
@@ -19,21 +19,8 @@ export default {
   },
   mainMenu: [
     {
-      name: 'About',
-      link: '/about'
-    },
-    {
       name: 'Contact',
       link: '/contact'
-    },
-    {
-      name: 'Categories',
-      link: '/categories'
-    },
-    {
-      name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
-      target: '_blank'
     }
   ],
   hero: {
