@@ -9,7 +9,7 @@ featureImage: /uploads/getting-started-hero.jpg
 ---
 
 ## Arcelor Mittal
-<hr>
+
 ### Le Creusot (France) - 08/1999 - 09/2000 - (1 an)
 - Tierce Maintenance sur une application de gestion des articles d'Imphy UGINE.
 - Création et modification de procédures stockées sous SQL Server.
@@ -18,7 +18,7 @@ featureImage: /uploads/getting-started-hero.jpg
 > Powerbuilder, Powertool, PowerAMC, SQL Server, COBOL, DB2
 
 ## Agence de l’eau RMC 
-<hr>
+
 ### Lyon (France) - 10/2000 - 11/2001 - (1 an)
 - Suivi d'une application de Maîtrise des Pollutions d'Origine Agricoles, utilisée au niveau de l'Agence de l'eau, et dans 16 DDAF [^1]
 - Création et modification de procédures stockées en PL-SQL.
@@ -28,7 +28,7 @@ featureImage: /uploads/getting-started-hero.jpg
 > Powerbuilder, Powertool, PL/SQL, PowerAMC, Oracle, SQL Server
 
 ## CRAM du Centre
-<hr>
+
 ### Orléans (France) - 12/2001 - 12/2002 (1 an)
 - Projet d'application (SGAI – Système de Gestion des Actions d’Identification) sur l'identification des personnes.
 - Création et modification de procédures stockées en PL-SQL.
@@ -38,7 +38,7 @@ featureImage: /uploads/getting-started-hero.jpg
 > Powerbuilder, Sybase PFC, PL/SQL, Méga, Oracle
 
 ## Arcelor Mittal
-<hr>
+
 ### Gueugnon (France) - 01/2003 - 07/2004 (≈ 2 ans)
 - Tierce Maintenance sur une application de gestion des articles d'Imphy UGINE.
 - Création et modification de procédures stockées sous SQL Server.
@@ -47,7 +47,7 @@ featureImage: /uploads/getting-started-hero.jpg
 > Powerbuilder, Powertool, PowerAMC, SQL Server
 
 ## AG2R La Mondiale
-<hr>
+
 ### Paris (France) - 02/2005 - 07/2007 (≈ 3 ans)
 - Analyse et développement de nouvelles fonctionnalités sous Powerbuilder et PL-SQL.
 - Analyse et développement d’un contrôle anti-terroriste pour contrôler les personnes à partir d’un fichier édité par l’[Union Européenne](http://eeas.europa.eu)
@@ -56,7 +56,7 @@ featureImage: /uploads/getting-started-hero.jpg
 > Powerbuilder, Sybase PFC, PL/SQL, PowerAMC, Oracle, Clearquest, Clearcase
 
 ## Commission Européenne
-<hr>
+
 ### Bruxelles (Belgique) - 07/2007 - 06/2012 (≈ 5 ans)
 De 07/2007 à 09/2010 : Equipe de développement :
 - Analyse et développement de nouvelles fonctionnalités sous Coldfusion et PL-SQL.
@@ -65,13 +65,7 @@ De 07/2007 à 09/2010 : Equipe de développement :
 - Rédaction de documentation fonctionnelle, détaillée et technique.
 > Coldfusion, PHP, JavaScript, Ajax, CSS, PL/SQL, Oracle, Clearquest, Clearcase
 
-
-<br>
 [Retour en haut de la page](#top)
-
-
-
-<!--{: data-content="footnotes"}-->
 
 #### Notes :
 
