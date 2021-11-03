@@ -34,11 +34,6 @@ export default {
       name: 'Github Repo',
       link: 'https://github.com/danielkellyio/awake-template',
       target: '_blank'
-    },
-    {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
-      target: '_blank'
     }
   ],
   hero: {
