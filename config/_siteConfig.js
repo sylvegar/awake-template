@@ -40,14 +40,17 @@ export default {
   },
 
   // Disqus
+  /*
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
     siteShortName: 'blog-danielkelly-io' // 'blog-danielkelly-io'
   },
+  */
 
   // Newsletter Subscribe
-  /*newsletter: {
+  /*
+  newsletter: {
     on: true,
     heading: 'Subscribe to Our Newsletter',
     btnText: 'Subscribe',
@@ -62,7 +65,8 @@ export default {
       on: false,
       formAction: ''
     }
-  },*/
+  },
+  */
 
   // Categories
   categories: {
@@ -77,9 +81,9 @@ export default {
     on: true,
     theme: null, // See card.theme (can be unique for posts if set here)
     imageDimensions: null, // See card.imageDimensions (can be unique for posts if set here)
-    displayAuthor: true,
+    displayAuthor: false,
     date: {
-      display: true
+      display: false
     },
     perRow: 3,
     perPage: 6
