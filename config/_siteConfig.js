@@ -47,7 +47,7 @@ export default {
   },
 
   // Newsletter Subscribe
-  newsletter: {
+  /*newsletter: {
     on: true,
     heading: 'Subscribe to Our Newsletter',
     btnText: 'Subscribe',
@@ -62,7 +62,7 @@ export default {
       on: false,
       formAction: ''
     }
-  },
+  },*/
 
   // Categories
   categories: {
