@@ -18,10 +18,10 @@ export default {
     id: process.env.GOOGLE_ANALYTICS_ID
   },
   mainMenu: [
-    {
+  /*  {
       name: 'Contact',
       link: '/contact'
-    }
+    }*/
   ],
   hero: {
     theme: 'dark' // options: mist, light, dark
